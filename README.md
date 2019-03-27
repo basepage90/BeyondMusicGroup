@@ -17,7 +17,7 @@
 
 5) web.xml 설정
 
-6) jsp 및 mapper 기본 틀 생성
+6) jsp 및 mapper 기본틀 생성
 
 ``` 
 
