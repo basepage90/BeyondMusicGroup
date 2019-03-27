@@ -1,4 +1,3 @@
-<%@page import="beyond.bmg.cms.domain.Teacher"%>
 <%@page import="beyond.bmg.cms.domain.Manager"%>
 <%@page import="beyond.bmg.cms.domain.Member"%>
 <%@ page language="java" 
@@ -18,16 +17,12 @@ if (loginUser == null) {
     String loginType = "학생";
     if (loginUser instanceof Manager) {
         loginType = "매니저";
-    } else if (loginUser instanceof Teacher) {
-        loginType = "강사";
-    }
+    } 
 %>
         <li>[<%=loginType%>]<%=loginUser.getName()%>(<a href='/app/auth/logout'>로그아웃</a>)</li> 
 <%
 }
 %>    
-        <li><a href='/app/student/list'>학생관리</a></li>
-        <li><a href='/app/teacher/list'>강사관리</a></li>
         <li><a href='/app/manager/list'>매니저관리</a></li>
     </ul>
 </header>
