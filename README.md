@@ -1,5 +1,11 @@
 # BeyondMusicGroup
 
+## v0.2
+
+- 디자인 컨셉 스케치
+- exerd 를 사용하여 db modeling
+- adobe xd 폴더 준비
+
 ## v0.1
 
 - 기본 구조 세팅
