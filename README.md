@@ -1,5 +1,9 @@
 # BeyondMusicGroup
 
+## v0.3
+
+- adobe xd 작업 시작 / mainpage 디자인 프로토타입 진행 중
+
 ## v0.2
 
 - 디자인 컨셉 스케치
