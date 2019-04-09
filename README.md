@@ -2,7 +2,12 @@
 
 ## v0.3.1
 
+- adobe xd 3차 작업 / mv page
+
+## v0.3.1
+
 - adobe xd 2차 작업 / caroucel 및 company page 진행
+
 ## v0.3
 
 - adobe xd 작업 시작 / mainpage 디자인 프로토타입 진행 중 
