@@ -1,5 +1,9 @@
 # BeyondMusicGroup
 
+## v0.3.3
+
+- adobe xd 4차 작업 / 남은페이지 : news artist_detail contact 
+
 ## v0.3.2
 
 - adobe xd 3차 작업 / mv page
